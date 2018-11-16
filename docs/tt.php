@@ -12,3 +12,6 @@
 
 Hello new branch
 Hello in branch  master
+
+str in local 1
+str in loca2
